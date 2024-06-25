@@ -1,0 +1,7 @@
+PortMapping=uuid1:COM5,uuid2:COM6
+SampleSize=20
+TimeoutMilliseconds=5000
+DefaultBaudRate=2400
+ErrorTolerance=0.2
+StandardDataPattern=^=([+-]?\d+\.\d+)\((\w+)\)$
+HttpUrl=http://0.0.0.0:5000

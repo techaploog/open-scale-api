@@ -1,0 +1,97 @@
+# .NET-related files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Auto-generated files
+*.g.cs
+*.generated.cs
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# npm
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# Python virtual environment
+.venv/
+env/
+
+# Mac files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+._*
+
+# Files that might appear on external drives
+.Spotlight-V100
+.Trashes
+
+# Other IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.code-workspace
+
+# Miscellaneous
+.vs/
+*.pidb
+*.pidb.meta
+.vscode-test/
+*.tsscache
+.vscode-test.js
